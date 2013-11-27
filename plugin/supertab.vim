@@ -634,7 +634,7 @@ function! s:ContextText()
         endif
       endfor
     else
-        return "\<c-x>\<c-ow";
+        return "\<c-x>\<c-o>";
     endif
   endif
 endfunction " }}}
